@@ -1,4 +1,3 @@
-# Challenge 1: Algoritmo minimax
-Dentro de un tablero en forma de matriz (lista que contiene listas) se mueven dos personajes, un gato y un raton, el gato se mueve como el caballo en ajedrez y el raton intenta escapar con los movimientos de la reina en el ajedrez en las 8 direcciones pero limitamos los cuadros que se puede mover
-
-Por que hacemos esto? Pues el raton es usuario del algoritmo minimax que analiza los posibles movimientos futuros y basado en esa predicción elige el mejor movimientos posible, la parte más complicada de este trabajo fue justamente la creación de este algoritmo pero una vez pude ver como funcionaba en el programa de compañeros entendí mejor y pude implementarlo en mi programa
+Algoritmo recursivo que busca elegir el mejor movimiento posible considerando que el oponente tambien elige el mejor movimiento posible
+El gato es controlado por el usuario y se mueve como caballo en ajedrez, el raton es controlando por el algoritmo y se mueve como dama en ajedrez
+Simple implementacion en python para buscar aprender las bases del lenguaje y el funcionamiento de algoritmos
