@@ -202,5 +202,5 @@ def jugar(n, max_turns):
     print(rata)
 
 
-
-jugar(8,4)
+# Elegimos el tamanyo del tablero y el maximo de turnos
+jugar(8,4) 
